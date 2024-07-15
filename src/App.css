@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      min-height: 100vh;
+      background: url('https://img.freepik.com/free-photo/vintage-grunge-blue-concrete-texture-studio-wall-background-with-vignette_1258-28374.jpg?t=st=1720186485~exp=1720190085~hmac=https://wallpapers.com/images/high/mix-color-1000-x-1714-background-bdxc8p14cgm02g4e.webp&w=740') no-repeat center/cover;
+      text-align: center;
+    }
