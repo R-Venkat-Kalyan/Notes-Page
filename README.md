@@ -24,10 +24,10 @@ Our notes cover the following subjects:
 - **Continuously Updated**: We strive to keep the content up-to-date with the latest trends and best practices.
 - **Easy to Navigate**: The React app offers an intuitive interface, making it easy to find and study the notes you need.
 
-## 📸 Screenshots
+<!--## 📸 Screenshots
 
 ![Screenshot1](path-to-your-screenshot1)
-![Screenshot2](path-to-your-screenshot2)
+![Screenshot2](path-to-your-screenshot2) -->
 
 
 ## 📧 Contact
