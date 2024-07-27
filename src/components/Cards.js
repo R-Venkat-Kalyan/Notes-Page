@@ -113,7 +113,7 @@ export default function Cards() {
                     <div className="contentBx">
                         <h2>Git Notes</h2>
                         <p>Basic Git & GitHub concepts. Includes commands, branching, and merging.</p>
-                        <a href="https://github.com/R-Venkat-Kalyan/Notes/blob/master/Git.txt" target="_blank" rel="noreferrer">View Notes</a>
+                        <a href="https://online.fliphtml5.com/rhriu/czyg/" target="_blank" rel="noreferrer">View Notes</a>
                     </div>
                 </div>
                 <div className="card">
