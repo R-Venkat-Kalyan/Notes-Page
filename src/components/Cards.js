@@ -1,7 +1,6 @@
 import React from 'react';
 import './Cards.css';
-// import mysqlIcon from './public/mysql.png'; // Assuming you have placed the SVG icons in the 'icons' folder
-// import mongodbIcon from './icons/mongodb.svg';
+
 
 export default function Cards() {
     return (
@@ -25,7 +24,7 @@ export default function Cards() {
                     <div className="contentBx">
                         <h2>Python Notes</h2>
                         <p>Basic Python programming. Includes syntax, libraries, and simple examples.</p>
-                        <a href="Error.html" target="_blank">View Notes</a>
+                        <a href="https://github.com/R-Venkat-Kalyan/Notes/blob/master/Python%20Notes.txt" target="_blank" rel="noreferrer">View Notes</a>
                     </div>
                 </div>
                 <div className="card">
@@ -38,9 +37,6 @@ export default function Cards() {
                         <a href="https://online.fliphtml5.com/rhriu/gmja/" target="_blank" rel="noreferrer">View Notes</a>
                     </div>
                 </div>
-
-            
-                
 
                 {/* Remaining cards: HTML, JavaScript, React, Git, Spring Boot */}
                 <div className="card">
@@ -70,7 +66,7 @@ export default function Cards() {
                     <div className="contentBx">
                         <h2>React Notes</h2>
                         <p>Basic concepts of React. Includes components, state, and props.</p>
-                        <a href="Error.html" target="_blank">View Notes</a>
+                        <a href="https://online.fliphtml5.com/rhriu/lfhu/" target="_blank" rel="noreferrer">View Notes</a>
                     </div>
                 </div>
 
@@ -87,7 +83,7 @@ export default function Cards() {
                 </div>
                 <div className="card">
                     <div className="imgBx">
-                        <img src="mongodb.png" alt="MongoDB Icon" className="custom-icon"  />
+                        <img src="mongodb.png" alt="MongoDB Icon" className="custom-icon" />
                     </div>
                     <div className="contentBx">
                         <h2>MongoDB Notes</h2>
@@ -123,7 +119,7 @@ export default function Cards() {
                     <div className="contentBx">
                         <h2>Spring Boot Notes</h2>
                         <p>Basic aspects of Spring Boot. Includes setup, configuration, and simple applications.</p>
-                        <a href="Error.html" target="_blank">View Notes</a>
+                        <a href="https://online.fliphtml5.com/rhriu/dwnc/" target="_blank" rel="noreferrer">View Notes</a>
                     </div>
                 </div>
             </div>
